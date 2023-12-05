@@ -1,0 +1,242 @@
+{
+    "devices": [
+        {
+            32770,
+            {
+                "default": {
+                    "*": {
+                        "config": {
+                            "acceleration": false,
+                            "accelerationRate": 0,
+                            "customModifiers": "",
+                            "customacceleration": false,
+                            "customaccelerationRate": 0,
+                            "customspeed": 50,
+                            "id": 0,
+                            "inertialScroll": false,
+                            "inertialScrollFactor": 0,
+                            "inertialScrollNullSteps": 0,
+                            "inertialScrollTimer": 0,
+                            "lockedAxisModifiers": "",
+                            "scrollInvert": false,
+                            "scrollLines": 1,
+                            "slowDivider": 0,
+                            "slowModifiers": "",
+                            "snapModifiers": "",
+                            "speed": 50,
+                            "fileName": "",
+                            "name": "*",
+                            "commands": [
+                                [
+                                    1,
+                                    {
+                                        "command": "navigation_scrollDown",
+                                        "params": {
+                                            "lines": "6"
+                                        }
+                                    }
+                                ],
+                                [
+                                    2,
+                                    {
+                                        "command": "mouse_leftClick",
+                                        "params": {
+                                            "label": "",
+                                            "modifiers": ""
+                                        }
+                                    }
+                                ],
+                                [
+                                    3,
+                                    {
+                                        "command": "snippet",
+                                        "params": {
+                                            "content": "test",
+                                            "index": 1,
+                                            "label": ""
+                                        }
+                                    }
+                                ],
+                                [
+                                    4,
+                                    {
+                                        "command": "macro",
+                                        "params": {
+                                            "index": 0,
+                                            "label": ""
+                                        }
+                                    }
+                                ]
+                            ],
+                            "snippets": [
+                                {
+                                    "content": "test",
+                                    "label": ""
+                                }
+                            ],
+                            "macro": {
+                                "defaultDelay": 50,
+                                "sequence": [
+                                    {
+                                        "useDefaultDelay": true,
+                                        "components": [
+                                            {
+                                                "keyboard": {
+                                                    "displayName": "A",
+                                                    "isDown": true
+                                                }
+                                            },
+                                            {
+                                                "delay": {
+                                                    "durationMs": 50
+                                                }
+                                            },
+                                            {
+                                                "keyboard": {
+                                                    "displayName": "A",
+                                                    "isDown": false
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fileName": "",
+                        "name": "*"
+                    },
+                    "current": true,
+                    "pfid": 1,
+                    "pfname": "default"
+                },
+                "keyboardLayout": "win/mac",
+                "firmwareVersion": "12.1.1",
+                "keyboardPrinting": "english",
+            },
+        },
+        {
+            32771,
+            {
+                "default": {
+                    "*": {
+                        "config": {
+                            "acceleration": false,
+                            "accelerationRate": 0,
+                            "customModifiers": "",
+                            "customacceleration": false,
+                            "customaccelerationRate": 0,
+                            "customspeed": 50,
+                            "id": 0,
+                            "inertialScroll": false,
+                            "inertialScrollFactor": 0,
+                            "inertialScrollNullSteps": 0,
+                            "inertialScrollTimer": 0,
+                            "lockedAxisModifiers": "",
+                            "scrollInvert": false,
+                            "scrollLines": 1,
+                            "slowDivider": 0,
+                            "slowModifiers": "",
+                            "snapModifiers": "",
+                            "speed": 50,
+                            "fileName": "",
+                            "name": "*",
+                            "commands": [
+                                [
+                                    1,
+                                    {
+                                        "command": "navigation_scrollDown",
+                                        "params": {
+                                            "lines": "6"
+                                        }
+                                    }
+                                ],
+                                [
+                                    2,
+                                    {
+                                        "command": "mouse_leftClick",
+                                        "params": {
+                                            "label": "",
+                                            "modifiers": ""
+                                        }
+                                    }
+                                ],
+                                [
+                                    3,
+                                    {
+                                        "command": "snippet",
+                                        "params": {
+                                            "content": "test",
+                                            "index": 1,
+                                            "label": ""
+                                        }
+                                    }
+                                ],
+                                [
+                                    4,
+                                    {
+                                        "command": "macro",
+                                        "params": {
+                                            "index": 0,
+                                            "label": ""
+                                        }
+                                    }
+                                ]
+                            ],
+                            "snippets": [
+                                {
+                                    "content": "test",
+                                    "label": ""
+                                }
+                            ],
+                            "macro": {
+                                "defaultDelay": 50,
+                                "sequence": [
+                                    {
+                                        "useDefaultDelay": true,
+                                        "components": [
+                                            {
+                                                "keyboard": {
+                                                    "displayName": "A",
+                                                    "isDown": true
+                                                }
+                                            },
+                                            {
+                                                "delay": {
+                                                    "durationMs": 50
+                                                }
+                                            },
+                                            {
+                                                "keyboard": {
+                                                    "displayName": "A",
+                                                    "isDown": false
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fileName": "",
+                        "name": "*"
+                    },
+                    "current": true,
+                    "pfid": 1,
+                    "pfname": "default"
+                },
+                "keyboardLayout": "win/mac",
+                "firmwareVersion": "12.1.1",
+                "keyboardPrinting": "english",
+            },
+        }
+    ],
+    "platform": "darwin",
+    "NotificationsStatus": {
+        "isMicNotificationOn": true,
+        "isProfileNotificationOn": true,
+        "isSystemNotificationOn": true
+    },
+    "timestamp": 1664184815,
+    "trayIcon": true,
+    "versionMajor": 2,
+    "versionMinor": 0
+}

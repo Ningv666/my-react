@@ -1,0 +1,1 @@
+export const addPersons = personObj => ({type:'addperson',data:personObj})

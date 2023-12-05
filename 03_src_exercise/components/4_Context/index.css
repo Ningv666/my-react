@@ -1,0 +1,18 @@
+.son {
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: aquamarine;
+    width: 100%;
+}
+.father {
+    box-sizing: border-box;
+    width: 100%;
+    background-color: aqua;
+    padding: 10px;
+}
+.grand {
+    box-sizing: border-box;
+    width: 500px;
+    background-color: bisque;
+    padding: 10px;
+}

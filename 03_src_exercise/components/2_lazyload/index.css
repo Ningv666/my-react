@@ -1,0 +1,17 @@
+.lazyload-page {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.active{
+    color: red;
+}
+.link {
+    display: block;
+    width: 80px;
+    border: 1px solid #888;
+    padding: 10px 20px;
+}
+a {
+    color: black;
+}
